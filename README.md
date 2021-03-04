@@ -27,6 +27,8 @@ Feel free to contact me at the links below 🤖😊
 
 > Git / GitHub / Visual Studio Code
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com). 
+
 <!--
 **Limadavida/Limadavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
