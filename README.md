@@ -15,6 +15,18 @@ Feel free to contact me at the links below 🤖😊
 ### 🛠️ My skills
 -----------------------------------------------------
 
+### Main Languages
+
+> C/C++ / Python / Html CSS Java Script /
+ 
+### Hardware
+
+> Raspberry / Arduino / PIC / AVR ARM /
+
+### Development tools
+
+> Git / GitHub / Visual Studio Code
+
 <!--
 **Limadavida/Limadavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
