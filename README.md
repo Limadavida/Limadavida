@@ -12,6 +12,8 @@ Anyway, in the last few years, I have been studying clean code, a scrum method t
 Feel free to contact me at the links below 🤖😊
 -----------------------------------------------------
 
+[LINKEDIN](https://www.linkedin.com/in/devdavidlima/) / [EMAIL](LimaDavidNascimento@gmail.com) 
+
 ### 🛠️ My skills
 -----------------------------------------------------
 
@@ -27,7 +29,7 @@ Feel free to contact me at the links below 🤖😊
 
 > Git / GitHub / Visual Studio Code
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com). 
+
 
 <!--
 **Limadavida/Limadavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
