@@ -12,7 +12,7 @@ Anyway, in the last few years, I have been studying clean code, a scrum method t
 Feel free to contact me at the links below 🤖😊
 -----------------------------------------------------
 
-[LINKEDIN](https://www.linkedin.com/in/devdavidlima/) / [EMAIL](LimaDavidNascimento@gmail.com) 
+[LINKEDIN](https://www.linkedin.com/in/devdavidlima/) / [LimaDavidNascimento@gmail.com] 
 
 ### 🛠️ My skills
 -----------------------------------------------------
